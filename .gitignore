@@ -1,0 +1,10 @@
+.vscode/
+Cours/
+*.exe
+*.docx
+*.xlsx
+*.pptx
+*.zip
+TD/Controle.pdf
+TD/Test.c
+S3*.c
